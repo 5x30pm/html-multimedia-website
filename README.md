@@ -21,4 +21,4 @@ website complete kar dega
 <br>
 <hr>
 
-Love from developer&hearts;
+<p align="right">Love from developer&hearts;</p>
