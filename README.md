@@ -6,16 +6,16 @@
 <br>
 <hr>
 
-Developer Nalla hai
+Developer Nalla hai<br>
 sone se chhuti mil jaega to complete karke upload kar dega
 <br>
 <br>
 <br>
 <hr>
 
-devloper ko abhi kewal HTML ka knowledge hai
-jab usko CSS aur JS ka knowledge ho jaega to 
-website complete kar dega
+devloper ko abhi kewal HTML ka knowledge hai<br>
+jab usko CSS aur JS ka knowledge ho jaega to <br>
+website complete kar dega<br>
 <br>
 <br>
 <br>
